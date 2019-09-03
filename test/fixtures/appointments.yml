@@ -2,12 +2,12 @@
 
 one:
   date: 2019-09-03
-  time: 2019-09-03 11:45:54
-  doctor_id: 1
-  patient_id: 1
+  time: 2019-09-03 15:18:02
+  doctor_id: one
+  patient_id: one
 
 two:
   date: 2019-09-03
-  time: 2019-09-03 11:45:54
-  doctor_id: 1
-  patient_id: 1
+  time: 2019-09-03 15:18:02
+  doctor_id: two
+  patient_id: two
